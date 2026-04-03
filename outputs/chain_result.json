@@ -1,0 +1,22 @@
+{
+  "root": "oakkao",
+  "target": "timelessnesses",
+  "hops": 2,
+  "nodes": [
+    "timelessnesses",
+    "Nacnano",
+    "oakkao"
+  ],
+  "edges": [
+    {
+      "from": "timelessnesses",
+      "to": "Nacnano",
+      "weight": 1
+    },
+    {
+      "from": "Nacnano",
+      "to": "oakkao",
+      "weight": 2
+    }
+  ]
+}
