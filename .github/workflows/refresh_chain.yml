@@ -28,7 +28,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Analyse & find chain
-        run: python ./analysis/analyze.py --root userXA
+        run: python ./analysis/analyze.py --root oakkao
 
       - name: Generate self-contained SVG (avatars embedded as base64)
         run: python ./analysis/generate_svg.py
