@@ -58,5 +58,5 @@ def collect_n_hop_graph(root_username, search_level=2, token=None):
 # --- Run ---
 TOKEN = os.environ.get("GITHUB_TOKEN")
 following_dict, followers_dict, user_level_list = collect_n_hop_graph(
-    "oakkao", search_level=1, token=TOKEN
+    "oakkao", search_level=2, token=TOKEN
 )
