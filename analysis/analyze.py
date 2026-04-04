@@ -143,7 +143,7 @@ def main(root: str, max_hops: int, seed: int | None) -> None:
     out_path = Path(OUTPUT_FILE)
     out_path.write_text(json.dumps(result, indent=2))
     print(f"\n✓ Chain written to {OUTPUT_FILE}")
-    print(f"  {' → '.join(result['nodes'])}  ({result['hops']} hop(s))")
+    print(f"  {' -> '.join(result['nodes'])}  ({result['hops']} hop(s))")
 
 
 # ---------------------------------------------------------------------------
