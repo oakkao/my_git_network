@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "Gusb3ll",
+  "target": "new5558",
   "hops": 2,
   "nodes": [
-    "Gusb3ll",
+    "new5558",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "Gusb3ll",
+      "from": "new5558",
       "to": "Nacnano",
-      "weight": 10
+      "weight": 15
     },
     {
       "from": "Nacnano",
