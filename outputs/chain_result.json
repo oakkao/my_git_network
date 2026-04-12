@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "RuffLogix",
+  "target": "peppapighs",
   "hops": 2,
   "nodes": [
-    "RuffLogix",
+    "peppapighs",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "RuffLogix",
+      "from": "peppapighs",
       "to": "Nacnano",
-      "weight": 22
+      "weight": 8
     },
     {
       "from": "Nacnano",
