@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "Aikoyori",
-  "hops": 2,
+  "target": "jasonnonstop10",
+  "hops": 3,
   "nodes": [
-    "Aikoyori",
+    "jasonnonstop10",
+    "annibuliful",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "Aikoyori",
+      "from": "jasonnonstop10",
+      "to": "annibuliful",
+      "weight": 4
+    },
+    {
+      "from": "annibuliful",
       "to": "Nacnano",
-      "weight": 1
+      "weight": 11
     },
     {
       "from": "Nacnano",
