@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "praewery",
+  "target": "suphon-t",
   "hops": 2,
   "nodes": [
-    "praewery",
+    "suphon-t",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "praewery",
+      "from": "suphon-t",
       "to": "Nacnano",
-      "weight": 2
+      "weight": 18
     },
     {
       "from": "Nacnano",
