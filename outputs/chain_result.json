@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "suphon-t",
-  "hops": 2,
+  "target": "pannxe",
+  "hops": 3,
   "nodes": [
-    "suphon-t",
+    "pannxe",
+    "Anon-136",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "suphon-t",
+      "from": "pannxe",
+      "to": "Anon-136",
+      "weight": 3
+    },
+    {
+      "from": "Anon-136",
       "to": "Nacnano",
-      "weight": 18
+      "weight": 17
     },
     {
       "from": "Nacnano",
