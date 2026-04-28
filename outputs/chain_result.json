@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "pannxe",
+  "target": "chaycha",
   "hops": 3,
   "nodes": [
-    "pannxe",
-    "Anon-136",
+    "chaycha",
+    "peppapighs",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "pannxe",
-      "to": "Anon-136",
-      "weight": 3
+      "from": "chaycha",
+      "to": "peppapighs",
+      "weight": 2
     },
     {
-      "from": "Anon-136",
+      "from": "peppapighs",
       "to": "Nacnano",
-      "weight": 17
+      "weight": 8
     },
     {
       "from": "Nacnano",
