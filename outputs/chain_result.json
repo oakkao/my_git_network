@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "chaycha",
+  "target": "chrnthnkmutt",
   "hops": 3,
   "nodes": [
-    "chaycha",
-    "peppapighs",
+    "chrnthnkmutt",
+    "tinarskii",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "chaycha",
-      "to": "peppapighs",
-      "weight": 2
+      "from": "chrnthnkmutt",
+      "to": "tinarskii",
+      "weight": 1
     },
     {
-      "from": "peppapighs",
+      "from": "tinarskii",
       "to": "Nacnano",
-      "weight": 8
+      "weight": 13
     },
     {
       "from": "Nacnano",
