@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "chrnthnkmutt",
+  "target": "ST4RCHASER",
   "hops": 3,
   "nodes": [
-    "chrnthnkmutt",
-    "tinarskii",
+    "ST4RCHASER",
+    "leomotors",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "chrnthnkmutt",
-      "to": "tinarskii",
-      "weight": 1
+      "from": "ST4RCHASER",
+      "to": "leomotors",
+      "weight": 3
     },
     {
-      "from": "tinarskii",
+      "from": "leomotors",
       "to": "Nacnano",
-      "weight": 13
+      "weight": 58
     },
     {
       "from": "Nacnano",
