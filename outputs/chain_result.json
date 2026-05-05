@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "ST4RCHASER",
-  "hops": 3,
+  "target": "bookpanda",
+  "hops": 2,
   "nodes": [
-    "ST4RCHASER",
-    "leomotors",
+    "bookpanda",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "ST4RCHASER",
-      "to": "leomotors",
-      "weight": 3
-    },
-    {
-      "from": "leomotors",
+      "from": "bookpanda",
       "to": "Nacnano",
-      "weight": 58
+      "weight": 43
     },
     {
       "from": "Nacnano",
