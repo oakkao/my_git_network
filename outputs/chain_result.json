@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "bookpanda",
-  "hops": 2,
+  "target": "kykungz",
+  "hops": 3,
   "nodes": [
-    "bookpanda",
+    "kykungz",
+    "chayapatr",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "bookpanda",
+      "from": "kykungz",
+      "to": "chayapatr",
+      "weight": 4
+    },
+    {
+      "from": "chayapatr",
       "to": "Nacnano",
-      "weight": 43
+      "weight": 9
     },
     {
       "from": "Nacnano",
