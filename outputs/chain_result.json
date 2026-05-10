@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "kykungz",
+  "target": "voratham",
   "hops": 3,
   "nodes": [
-    "kykungz",
-    "chayapatr",
+    "voratham",
+    "lazykern",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "kykungz",
-      "to": "chayapatr",
-      "weight": 4
+      "from": "voratham",
+      "to": "lazykern",
+      "weight": 1
     },
     {
-      "from": "chayapatr",
+      "from": "lazykern",
       "to": "Nacnano",
-      "weight": 9
+      "weight": 2
     },
     {
       "from": "Nacnano",
