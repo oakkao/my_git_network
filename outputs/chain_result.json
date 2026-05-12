@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "voratham",
-  "hops": 3,
+  "target": "Prince-in-the-wood",
+  "hops": 2,
   "nodes": [
-    "voratham",
-    "lazykern",
+    "Prince-in-the-wood",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "voratham",
-      "to": "lazykern",
-      "weight": 1
-    },
-    {
-      "from": "lazykern",
+      "from": "Prince-in-the-wood",
       "to": "Nacnano",
-      "weight": 2
+      "weight": 4
     },
     {
       "from": "Nacnano",
