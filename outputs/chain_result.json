@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "Prince-in-the-wood",
+  "target": "Aikoyori",
   "hops": 2,
   "nodes": [
-    "Prince-in-the-wood",
+    "Aikoyori",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "Prince-in-the-wood",
+      "from": "Aikoyori",
       "to": "Nacnano",
-      "weight": 4
+      "weight": 1
     },
     {
       "from": "Nacnano",
