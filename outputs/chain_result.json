@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "peam1146",
+  "target": "Kuuuuuuuu",
   "hops": 2,
   "nodes": [
-    "peam1146",
+    "Kuuuuuuuu",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "peam1146",
+      "from": "Kuuuuuuuu",
       "to": "Nacnano",
-      "weight": 14
+      "weight": 9
     },
     {
       "from": "Nacnano",
