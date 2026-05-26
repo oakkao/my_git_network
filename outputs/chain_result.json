@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "annibuliful",
+  "target": "khajornritdacha",
   "hops": 2,
   "nodes": [
-    "annibuliful",
+    "khajornritdacha",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "annibuliful",
+      "from": "khajornritdacha",
       "to": "Nacnano",
-      "weight": 11
+      "weight": 28
     },
     {
       "from": "Nacnano",
