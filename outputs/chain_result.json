@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "khajornritdacha",
+  "target": "miello",
   "hops": 2,
   "nodes": [
-    "khajornritdacha",
+    "miello",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "khajornritdacha",
+      "from": "miello",
       "to": "Nacnano",
-      "weight": 28
+      "weight": 25
     },
     {
       "from": "Nacnano",
