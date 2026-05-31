@@ -1,20 +1,20 @@
 {
   "root": "oakkao",
-  "target": "miello",
+  "target": "Rujipas-Thongpao",
   "hops": 2,
   "nodes": [
-    "miello",
-    "Nacnano",
+    "Rujipas-Thongpao",
+    "ChanatpakornS",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "miello",
-      "to": "Nacnano",
-      "weight": 25
+      "from": "Rujipas-Thongpao",
+      "to": "ChanatpakornS",
+      "weight": 3
     },
     {
-      "from": "Nacnano",
+      "from": "ChanatpakornS",
       "to": "oakkao",
       "weight": 2
     }
