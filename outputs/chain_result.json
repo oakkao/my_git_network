@@ -1,20 +1,26 @@
 {
   "root": "oakkao",
-  "target": "Rujipas-Thongpao",
-  "hops": 2,
+  "target": "rayriffy",
+  "hops": 3,
   "nodes": [
-    "Rujipas-Thongpao",
-    "ChanatpakornS",
+    "rayriffy",
+    "leomotors",
+    "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "Rujipas-Thongpao",
-      "to": "ChanatpakornS",
-      "weight": 3
+      "from": "rayriffy",
+      "to": "leomotors",
+      "weight": 11
     },
     {
-      "from": "ChanatpakornS",
+      "from": "leomotors",
+      "to": "Nacnano",
+      "weight": 58
+    },
+    {
+      "from": "Nacnano",
       "to": "oakkao",
       "weight": 2
     }
