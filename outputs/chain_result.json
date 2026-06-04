@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "rayriffy",
-  "hops": 3,
+  "target": "NasmeenI",
+  "hops": 2,
   "nodes": [
-    "rayriffy",
-    "leomotors",
+    "NasmeenI",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "rayriffy",
-      "to": "leomotors",
-      "weight": 11
-    },
-    {
-      "from": "leomotors",
+      "from": "NasmeenI",
       "to": "Nacnano",
-      "weight": 58
+      "weight": 6
     },
     {
       "from": "Nacnano",
