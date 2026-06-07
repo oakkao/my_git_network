@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "NasmeenI",
+  "target": "miello",
   "hops": 2,
   "nodes": [
-    "NasmeenI",
+    "miello",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "NasmeenI",
+      "from": "miello",
       "to": "Nacnano",
-      "weight": 6
+      "weight": 25
     },
     {
       "from": "Nacnano",
