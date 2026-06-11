@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "leomotors",
+  "target": "ebonian",
   "hops": 2,
   "nodes": [
-    "leomotors",
+    "ebonian",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "leomotors",
+      "from": "ebonian",
       "to": "Nacnano",
-      "weight": 58
+      "weight": 30
     },
     {
       "from": "Nacnano",
