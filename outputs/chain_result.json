@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "ebonian",
+  "target": "shalluv",
   "hops": 2,
   "nodes": [
-    "ebonian",
+    "shalluv",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "ebonian",
+      "from": "shalluv",
       "to": "Nacnano",
-      "weight": 30
+      "weight": 39
     },
     {
       "from": "Nacnano",
