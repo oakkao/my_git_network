@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "shalluv",
+  "target": "IamKittitat",
   "hops": 2,
   "nodes": [
-    "shalluv",
+    "IamKittitat",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "shalluv",
+      "from": "IamKittitat",
       "to": "Nacnano",
-      "weight": 39
+      "weight": 8
     },
     {
       "from": "Nacnano",
