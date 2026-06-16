@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "IamKittitat",
-  "hops": 2,
+  "target": "chalkp",
+  "hops": 3,
   "nodes": [
-    "IamKittitat",
+    "chalkp",
+    "RuffLogix",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "IamKittitat",
+      "from": "chalkp",
+      "to": "RuffLogix",
+      "weight": 1
+    },
+    {
+      "from": "RuffLogix",
       "to": "Nacnano",
-      "weight": 8
+      "weight": 22
     },
     {
       "from": "Nacnano",
