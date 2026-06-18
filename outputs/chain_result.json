@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "chalkp",
+  "target": "plumsirawit",
   "hops": 3,
   "nodes": [
-    "chalkp",
-    "RuffLogix",
+    "plumsirawit",
+    "leomotors",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "chalkp",
-      "to": "RuffLogix",
-      "weight": 1
+      "from": "plumsirawit",
+      "to": "leomotors",
+      "weight": 9
     },
     {
-      "from": "RuffLogix",
+      "from": "leomotors",
       "to": "Nacnano",
-      "weight": 22
+      "weight": 58
     },
     {
       "from": "Nacnano",
