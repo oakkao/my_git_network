@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "plumsirawit",
+  "target": "kykungz",
   "hops": 3,
   "nodes": [
-    "plumsirawit",
-    "leomotors",
+    "kykungz",
+    "chayapatr",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "plumsirawit",
-      "to": "leomotors",
-      "weight": 9
+      "from": "kykungz",
+      "to": "chayapatr",
+      "weight": 4
     },
     {
-      "from": "leomotors",
+      "from": "chayapatr",
       "to": "Nacnano",
-      "weight": 58
+      "weight": 9
     },
     {
       "from": "Nacnano",
