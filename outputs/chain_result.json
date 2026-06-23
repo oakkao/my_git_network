@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "kykungz",
-  "hops": 3,
+  "target": "xHexlabx",
+  "hops": 2,
   "nodes": [
-    "kykungz",
-    "chayapatr",
+    "xHexlabx",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "kykungz",
-      "to": "chayapatr",
-      "weight": 4
-    },
-    {
-      "from": "chayapatr",
+      "from": "xHexlabx",
       "to": "Nacnano",
-      "weight": 9
+      "weight": 5
     },
     {
       "from": "Nacnano",
