@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "xHexlabx",
+  "target": "IamKittitat",
   "hops": 2,
   "nodes": [
-    "xHexlabx",
+    "IamKittitat",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "xHexlabx",
+      "from": "IamKittitat",
       "to": "Nacnano",
-      "weight": 5
+      "weight": 8
     },
     {
       "from": "Nacnano",
