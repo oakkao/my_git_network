@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "msp5382",
+  "target": "Aphrodicez",
   "hops": 2,
   "nodes": [
-    "msp5382",
+    "Aphrodicez",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "msp5382",
+      "from": "Aphrodicez",
       "to": "Nacnano",
-      "weight": 24
+      "weight": 16
     },
     {
       "from": "Nacnano",
