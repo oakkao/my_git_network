@@ -1,19 +1,13 @@
 {
   "root": "oakkao",
-  "target": "wiput1999",
-  "hops": 3,
+  "target": "leomotors",
+  "hops": 2,
   "nodes": [
-    "wiput1999",
     "leomotors",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
-    {
-      "from": "wiput1999",
-      "to": "leomotors",
-      "weight": 14
-    },
     {
       "from": "leomotors",
       "to": "Nacnano",
@@ -22,7 +16,7 @@
     {
       "from": "Nacnano",
       "to": "oakkao",
-      "weight": 2
+      "weight": 3
     }
   ]
 }
