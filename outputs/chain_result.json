@@ -1,13 +1,19 @@
 {
   "root": "oakkao",
-  "target": "leomotors",
-  "hops": 2,
+  "target": "rayriffy",
+  "hops": 3,
   "nodes": [
+    "rayriffy",
     "leomotors",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
+    {
+      "from": "rayriffy",
+      "to": "leomotors",
+      "weight": 11
+    },
     {
       "from": "leomotors",
       "to": "Nacnano",
