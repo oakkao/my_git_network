@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "jukbot",
-  "hops": 3,
+  "target": "Prince-in-the-wood",
+  "hops": 2,
   "nodes": [
-    "jukbot",
-    "annibuliful",
+    "Prince-in-the-wood",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "jukbot",
-      "to": "annibuliful",
-      "weight": 5
-    },
-    {
-      "from": "annibuliful",
+      "from": "Prince-in-the-wood",
       "to": "Nacnano",
-      "weight": 11
+      "weight": 4
     },
     {
       "from": "Nacnano",
