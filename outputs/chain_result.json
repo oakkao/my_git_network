@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "chayapatr",
-  "hops": 2,
+  "target": "chunrapeepat",
+  "hops": 3,
   "nodes": [
-    "chayapatr",
+    "chunrapeepat",
+    "annibuliful",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "chayapatr",
+      "from": "chunrapeepat",
+      "to": "annibuliful",
+      "weight": 5
+    },
+    {
+      "from": "annibuliful",
       "to": "Nacnano",
-      "weight": 9
+      "weight": 11
     },
     {
       "from": "Nacnano",
