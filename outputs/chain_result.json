@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "dunksoravit",
+  "target": "wnmay",
   "hops": 2,
   "nodes": [
-    "dunksoravit",
+    "wnmay",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "dunksoravit",
+      "from": "wnmay",
       "to": "Nacnano",
-      "weight": 4
+      "weight": 10
     },
     {
       "from": "Nacnano",
