@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "wnmay",
-  "hops": 2,
+  "target": "khris-xp",
+  "hops": 3,
   "nodes": [
-    "wnmay",
+    "khris-xp",
+    "Kuuuuuuuu",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "wnmay",
+      "from": "khris-xp",
+      "to": "Kuuuuuuuu",
+      "weight": 3
+    },
+    {
+      "from": "Kuuuuuuuu",
       "to": "Nacnano",
-      "weight": 10
+      "weight": 9
     },
     {
       "from": "Nacnano",
