@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "khris-xp",
+  "target": "ItsGuitar",
   "hops": 3,
   "nodes": [
-    "khris-xp",
-    "Kuuuuuuuu",
+    "ItsGuitar",
+    "napat2224",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "khris-xp",
-      "to": "Kuuuuuuuu",
-      "weight": 3
+      "from": "ItsGuitar",
+      "to": "napat2224",
+      "weight": 1
     },
     {
-      "from": "Kuuuuuuuu",
+      "from": "napat2224",
       "to": "Nacnano",
-      "weight": 9
+      "weight": 4
     },
     {
       "from": "Nacnano",
