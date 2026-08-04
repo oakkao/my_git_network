@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "HRNPH",
+  "target": "traviolus",
   "hops": 3,
   "nodes": [
-    "HRNPH",
-    "bookpanda",
+    "traviolus",
+    "Benzbeeb",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "HRNPH",
-      "to": "bookpanda",
-      "weight": 4
+      "from": "traviolus",
+      "to": "Benzbeeb",
+      "weight": 1
     },
     {
-      "from": "bookpanda",
+      "from": "Benzbeeb",
       "to": "Nacnano",
-      "weight": 43
+      "weight": 2
     },
     {
       "from": "Nacnano",
