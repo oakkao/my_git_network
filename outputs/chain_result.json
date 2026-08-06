@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "traviolus",
-  "hops": 3,
+  "target": "peppapighs",
+  "hops": 2,
   "nodes": [
-    "traviolus",
-    "Benzbeeb",
+    "peppapighs",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "traviolus",
-      "to": "Benzbeeb",
-      "weight": 1
-    },
-    {
-      "from": "Benzbeeb",
+      "from": "peppapighs",
       "to": "Nacnano",
-      "weight": 2
+      "weight": 8
     },
     {
       "from": "Nacnano",
