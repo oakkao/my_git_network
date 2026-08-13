@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "UtopiaBeam",
-  "hops": 2,
+  "target": "Autoratch",
+  "hops": 3,
   "nodes": [
-    "UtopiaBeam",
+    "Autoratch",
+    "abhabongse",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "UtopiaBeam",
-      "to": "Nacnano",
+      "from": "Autoratch",
+      "to": "abhabongse",
       "weight": 9
+    },
+    {
+      "from": "abhabongse",
+      "to": "Nacnano",
+      "weight": 10
     },
     {
       "from": "Nacnano",
