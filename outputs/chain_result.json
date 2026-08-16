@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "Autoratch",
-  "hops": 3,
+  "target": "tithanayut",
+  "hops": 2,
   "nodes": [
-    "Autoratch",
-    "abhabongse",
+    "tithanayut",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "Autoratch",
-      "to": "abhabongse",
-      "weight": 9
-    },
-    {
-      "from": "abhabongse",
+      "from": "tithanayut",
       "to": "Nacnano",
-      "weight": 10
+      "weight": 21
     },
     {
       "from": "Nacnano",
