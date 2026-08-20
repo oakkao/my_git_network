@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "kcnti",
+  "target": "neennera",
   "hops": 2,
   "nodes": [
-    "kcnti",
+    "neennera",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "kcnti",
+      "from": "neennera",
       "to": "Nacnano",
-      "weight": 7
+      "weight": 22
     },
     {
       "from": "Nacnano",
