@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "raviporna",
-  "hops": 2,
+  "target": "noppakorn",
+  "hops": 3,
   "nodes": [
-    "raviporna",
+    "noppakorn",
+    "miello",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "raviporna",
+      "from": "noppakorn",
+      "to": "miello",
+      "weight": 5
+    },
+    {
+      "from": "miello",
       "to": "Nacnano",
-      "weight": 7
+      "weight": 25
     },
     {
       "from": "Nacnano",
