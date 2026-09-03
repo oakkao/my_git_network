@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "PeammaeP",
-  "hops": 2,
+  "target": "Pittawat2542",
+  "hops": 3,
   "nodes": [
-    "PeammaeP",
+    "Pittawat2542",
+    "suphon-t",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "PeammaeP",
+      "from": "Pittawat2542",
+      "to": "suphon-t",
+      "weight": 5
+    },
+    {
+      "from": "suphon-t",
       "to": "Nacnano",
-      "weight": 2
+      "weight": 18
     },
     {
       "from": "Nacnano",
