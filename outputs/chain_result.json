@@ -1,23 +1,23 @@
 {
   "root": "oakkao",
-  "target": "apiphoomchu",
+  "target": "Jabont",
   "hops": 3,
   "nodes": [
-    "apiphoomchu",
-    "bookpanda",
+    "Jabont",
+    "wit03",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "apiphoomchu",
-      "to": "bookpanda",
-      "weight": 6
+      "from": "Jabont",
+      "to": "wit03",
+      "weight": 4
     },
     {
-      "from": "bookpanda",
+      "from": "wit03",
       "to": "Nacnano",
-      "weight": 43
+      "weight": 8
     },
     {
       "from": "Nacnano",
