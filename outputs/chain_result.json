@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "TeeGoood",
+  "target": "NaminPickles",
   "hops": 2,
   "nodes": [
-    "TeeGoood",
+    "NaminPickles",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "TeeGoood",
+      "from": "NaminPickles",
       "to": "Nacnano",
-      "weight": 15
+      "weight": 9
     },
     {
       "from": "Nacnano",
