@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "NaminPickles",
+  "target": "suphon-t",
   "hops": 2,
   "nodes": [
-    "NaminPickles",
+    "suphon-t",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "NaminPickles",
+      "from": "suphon-t",
       "to": "Nacnano",
-      "weight": 9
+      "weight": 18
     },
     {
       "from": "Nacnano",
