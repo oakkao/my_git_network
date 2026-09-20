@@ -1,20 +1,20 @@
 {
   "root": "oakkao",
-  "target": "suphon-t",
+  "target": "rootEnginear",
   "hops": 2,
   "nodes": [
-    "suphon-t",
-    "Nacnano",
+    "rootEnginear",
+    "boomchanotai",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "suphon-t",
-      "to": "Nacnano",
-      "weight": 18
+      "from": "rootEnginear",
+      "to": "boomchanotai",
+      "weight": 7
     },
     {
-      "from": "Nacnano",
+      "from": "boomchanotai",
       "to": "oakkao",
       "weight": 3
     }
