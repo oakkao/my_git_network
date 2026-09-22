@@ -1,20 +1,26 @@
 {
   "root": "oakkao",
-  "target": "rootEnginear",
-  "hops": 2,
+  "target": "Rayato159",
+  "hops": 3,
   "nodes": [
-    "rootEnginear",
-    "boomchanotai",
+    "Rayato159",
+    "tinarskii",
+    "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "rootEnginear",
-      "to": "boomchanotai",
+      "from": "Rayato159",
+      "to": "tinarskii",
       "weight": 7
     },
     {
-      "from": "boomchanotai",
+      "from": "tinarskii",
+      "to": "Nacnano",
+      "weight": 13
+    },
+    {
+      "from": "Nacnano",
       "to": "oakkao",
       "weight": 3
     }
