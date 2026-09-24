@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "Rayato159",
-  "hops": 3,
+  "target": "Aikoyori",
+  "hops": 2,
   "nodes": [
-    "Rayato159",
-    "tinarskii",
+    "Aikoyori",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "Rayato159",
-      "to": "tinarskii",
-      "weight": 7
-    },
-    {
-      "from": "tinarskii",
+      "from": "Aikoyori",
       "to": "Nacnano",
-      "weight": 13
+      "weight": 1
     },
     {
       "from": "Nacnano",
