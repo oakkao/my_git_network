@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "Kuuuuuuuu",
+  "target": "peppapighs",
   "hops": 2,
   "nodes": [
-    "Kuuuuuuuu",
+    "peppapighs",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "Kuuuuuuuu",
+      "from": "peppapighs",
       "to": "Nacnano",
-      "weight": 9
+      "weight": 8
     },
     {
       "from": "Nacnano",
