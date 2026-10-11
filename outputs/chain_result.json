@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "tinarskii",
-  "hops": 2,
+  "target": "ronnapatp",
+  "hops": 3,
   "nodes": [
-    "tinarskii",
+    "ronnapatp",
+    "sleepntsheep",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "tinarskii",
+      "from": "ronnapatp",
+      "to": "sleepntsheep",
+      "weight": 6
+    },
+    {
+      "from": "sleepntsheep",
       "to": "Nacnano",
-      "weight": 13
+      "weight": 19
     },
     {
       "from": "Nacnano",
