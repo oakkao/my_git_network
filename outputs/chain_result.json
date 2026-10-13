@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "ronnapatp",
-  "hops": 3,
+  "target": "suphon-t",
+  "hops": 2,
   "nodes": [
-    "ronnapatp",
-    "sleepntsheep",
+    "suphon-t",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "ronnapatp",
-      "to": "sleepntsheep",
-      "weight": 6
-    },
-    {
-      "from": "sleepntsheep",
+      "from": "suphon-t",
       "to": "Nacnano",
-      "weight": 19
+      "weight": 18
     },
     {
       "from": "Nacnano",
