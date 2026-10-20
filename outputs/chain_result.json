@@ -1,17 +1,17 @@
 {
   "root": "oakkao",
-  "target": "UtopiaBeam",
+  "target": "tanasinp",
   "hops": 2,
   "nodes": [
-    "UtopiaBeam",
+    "tanasinp",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "UtopiaBeam",
+      "from": "tanasinp",
       "to": "Nacnano",
-      "weight": 9
+      "weight": 6
     },
     {
       "from": "Nacnano",
