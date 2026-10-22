@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "tanasinp",
-  "hops": 2,
+  "target": "Takedaxz",
+  "hops": 3,
   "nodes": [
-    "tanasinp",
+    "Takedaxz",
+    "MasterIceZ",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "tanasinp",
+      "from": "Takedaxz",
+      "to": "MasterIceZ",
+      "weight": 3
+    },
+    {
+      "from": "MasterIceZ",
       "to": "Nacnano",
-      "weight": 6
+      "weight": 42
     },
     {
       "from": "Nacnano",
