@@ -2,7 +2,7 @@
   "ChanatpakornS": {
     "following": [
       {
-        "login": "facebook",
+        "login": "meta",
         "id": 69631,
         "type": "Organization"
       },
@@ -403,7 +403,7 @@
       }
     ],
     "following_count": 78,
-    "following_cached_at": "2026-10-25T04:08:55.538131+00:00",
+    "following_cached_at": "2026-11-01T05:29:29.518499+00:00",
     "following_skipped": false,
     "followers": [
       {
@@ -414,6 +414,11 @@
       {
         "login": "betich",
         "id": 28398789,
+        "type": "User"
+      },
+      {
+        "login": "kpopdev",
+        "id": 28566705,
         "type": "User"
       },
       {
@@ -643,7 +648,7 @@
       }
     ],
     "followers_count": 45,
-    "followers_cached_at": "2026-10-25T04:08:56.760702+00:00",
+    "followers_cached_at": "2026-11-01T05:29:30.599872+00:00",
     "followers_skipped": false
   },
   "facebook": {
@@ -10890,7 +10895,7 @@
       }
     ],
     "following_count": 52,
-    "following_cached_at": "2026-10-25T04:08:41.724891+00:00",
+    "following_cached_at": "2026-11-01T05:29:17.140740+00:00",
     "following_skipped": false,
     "followers": [
       {
@@ -11200,7 +11205,7 @@
       }
     ],
     "followers_count": 62,
-    "followers_cached_at": "2026-10-25T04:08:42.982015+00:00",
+    "followers_cached_at": "2026-11-01T05:29:18.275149+00:00",
     "followers_skipped": false
   },
   "mikelopster": {
@@ -19302,7 +19307,7 @@
       }
     ],
     "following_count": 2,
-    "following_cached_at": "2026-10-25T04:08:39.111390+00:00",
+    "following_cached_at": "2026-11-01T05:29:14.942209+00:00",
     "following_skipped": false,
     "followers": [
       {
@@ -19327,7 +19332,7 @@
       }
     ],
     "followers_count": 3,
-    "followers_cached_at": "2026-10-25T04:08:40.418088+00:00",
+    "followers_cached_at": "2026-11-01T05:29:16.060223+00:00",
     "followers_skipped": false
   },
   "Aphrodicez": {
@@ -21552,7 +21557,7 @@
         "type": "User"
       },
       {
-        "login": "H-Liu1997",
+        "login": "haiyangliu0",
         "id": 41906591,
         "type": "User"
       },
@@ -24167,6 +24172,11 @@
         "type": "Organization"
       },
       {
+        "login": "LoganBrinkley",
+        "id": 196213627,
+        "type": "User"
+      },
+      {
         "login": "capstone-cp49",
         "id": 196963188,
         "type": "Organization"
@@ -24189,6 +24199,11 @@
       {
         "login": "eliauk585",
         "id": 206563736,
+        "type": "User"
+      },
+      {
+        "login": "bit2swaz",
+        "id": 209277869,
         "type": "User"
       },
       {
@@ -24233,7 +24248,7 @@
       }
     ],
     "following_count": 798,
-    "following_cached_at": "2026-10-25T04:08:51.395615+00:00",
+    "following_cached_at": "2026-11-01T05:29:25.938080+00:00",
     "following_skipped": false,
     "followers": [
       {
@@ -24269,11 +24284,6 @@
       {
         "login": "riseansmal",
         "id": 6877737,
-        "type": "User"
-      },
-      {
-        "login": "mustafacagri",
-        "id": 7488394,
         "type": "User"
       },
       {
@@ -25560,15 +25570,10 @@
         "login": "webbrain-a00",
         "id": 335792814,
         "type": "User"
-      },
-      {
-        "login": "HashChainL0",
-        "id": 344092374,
-        "type": "User"
       }
     ],
     "followers_count": 246,
-    "followers_cached_at": "2026-10-25T04:08:54.230137+00:00",
+    "followers_cached_at": "2026-11-01T05:29:28.423228+00:00",
     "followers_skipped": false
   },
   "leomotors": {
@@ -311789,7 +311794,7 @@
         "type": "Organization"
       }
     ],
-    "following_cached_at": "2026-10-25T04:08:58.005685+00:00",
+    "following_cached_at": "2026-11-01T05:29:31.700350+00:00",
     "following_skipped": false,
     "followers": [
       {
@@ -311830,11 +311835,6 @@
       {
         "login": "smahaduzzaman",
         "id": 85965018,
-        "type": "User"
-      },
-      {
-        "login": "seckinyasar",
-        "id": 86570205,
         "type": "User"
       },
       {
@@ -311881,14 +311881,9 @@
         "login": "Ahnaf107",
         "id": 162877286,
         "type": "User"
-      },
-      {
-        "login": "liesbethbelmokhtar203-source",
-        "id": 295545598,
-        "type": "User"
       }
     ],
-    "followers_cached_at": "2026-10-25T04:08:59.206216+00:00",
+    "followers_cached_at": "2026-11-01T05:29:32.822285+00:00",
     "followers_skipped": false
   }
 }
