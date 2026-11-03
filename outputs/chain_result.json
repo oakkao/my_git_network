@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "Aikoyori",
-  "hops": 2,
+  "target": "varkaria",
+  "hops": 3,
   "nodes": [
-    "Aikoyori",
+    "varkaria",
+    "leomotors",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "Aikoyori",
+      "from": "varkaria",
+      "to": "leomotors",
+      "weight": 5
+    },
+    {
+      "from": "leomotors",
       "to": "Nacnano",
-      "weight": 1
+      "weight": 58
     },
     {
       "from": "Nacnano",
