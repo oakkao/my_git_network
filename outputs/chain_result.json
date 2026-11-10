@@ -1,17 +1,23 @@
 {
   "root": "oakkao",
-  "target": "suphon-t",
-  "hops": 2,
+  "target": "voratham",
+  "hops": 3,
   "nodes": [
-    "suphon-t",
+    "voratham",
+    "lazykern",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "suphon-t",
+      "from": "voratham",
+      "to": "lazykern",
+      "weight": 1
+    },
+    {
+      "from": "lazykern",
       "to": "Nacnano",
-      "weight": 18
+      "weight": 2
     },
     {
       "from": "Nacnano",
