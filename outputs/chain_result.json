@@ -1,23 +1,17 @@
 {
   "root": "oakkao",
-  "target": "voratham",
-  "hops": 3,
+  "target": "ebonian",
+  "hops": 2,
   "nodes": [
-    "voratham",
-    "lazykern",
+    "ebonian",
     "Nacnano",
     "oakkao"
   ],
   "edges": [
     {
-      "from": "voratham",
-      "to": "lazykern",
-      "weight": 1
-    },
-    {
-      "from": "lazykern",
+      "from": "ebonian",
       "to": "Nacnano",
-      "weight": 2
+      "weight": 30
     },
     {
       "from": "Nacnano",
